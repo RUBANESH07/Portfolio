@@ -153,8 +153,8 @@ function About(){
                         power bi intergerting API.</p>
                 </div>
                 <div className="internbtns">
-                <button className="internbtn1"><b>REPORT</b></button>
-                <button className="internbtn2"><b>INTERN-COMPLETION CERTI</b></button>
+                <button className="internbtn1"><a href="https://drive.google.com/drive/folders/19Gfsnqt1vMAAzKdcKNswq4gPpnp9sSfX"><b>REPORT</b></a></button>
+                <button className="internbtn2"><a href="https://drive.google.com/drive/folders/19Gfsnqt1vMAAzKdcKNswq4gPpnp9sSfX"><b>INTERN-COMPLETION CERTI</b></a></button>
                 </div>
 
             </div>
