@@ -1,0 +1,70 @@
+#qualipage{
+    background:radial-gradient(rgb(13, 13, 85),rgb(0, 0, 0));
+    width: 1350px;
+    height: 650px;
+    margin: 40px;
+    border-radius: 30px ;
+    margin-bottom: 10px;  
+   
+}
+#qualihead{
+   
+    height: 40px;
+    width: 1350px;
+    text-align: center;
+    padding-top:20px ;
+}
+#qualicon{
+    display: flex; 
+    height: 400px;
+    width: 1250px;
+    margin-left: 50px;
+    margin-top: 120px;
+    justify-content: space-around;
+}
+
+#school1{
+    background: linear-gradient(to right,rgb(27, 27, 78),black);
+    width: 320px;
+    height: 290px;
+    margin: 5px;
+    margin-top: -16px;
+    text-align: center;
+    border-radius: 60px;
+     
+}
+#school{
+    background:linear-gradient(red,rgb(245, 5, 177));
+    width: 330px;
+    height: 300px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+#line{
+    width: 0.2px;
+    height: 375px;
+    margin-top: 10px;
+    border: solid;
+    border-right:none ;
+    border-bottom:none ;
+    border-top: none;
+}
+#diplo{
+    background:linear-gradient(red,rgb(245, 5, 177));
+    width: 330px;
+    height: 300px;
+    margin-top: 60px;
+    border-radius: 30px;
+  
+}
+#aids{
+    background:linear-gradient(red,rgb(245, 5, 177));
+    width: 330px;
+    height: 300px;
+    margin-top: 60px;
+    border-radius: 30px;
+ 
+    
+}
+

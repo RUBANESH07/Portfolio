@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+  }
+  
+.headnamelogo {
+    display: flex;
+  }
+  
+.headnamelogo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+  }
+  
+#headername h1 {
+    width: 130px;
+    height: 30px;
+    color: white;
+    margin: 0;
+    padding: 5px;
+    margin-left: 10px;
+  }
+  
+#headercon {
+    display: flex;
+    gap: 35px;
+    margin-left: 150px;
+  }
+  
+#headercon a {
+    background: linear-gradient(to right, rgb(10, 10, 238), rgb(18, 183, 234));
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 0.6cm;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+    

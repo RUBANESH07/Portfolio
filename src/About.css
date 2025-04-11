@@ -1,0 +1,280 @@
+
+/* --------------------basepage--------------------- */
+
+#aboutpage{
+    width: 36cm;
+    height: 17cm;
+    margin: 40px;
+    
+}
+#abouthead h1{
+    font: size 2em;
+    text-align: center;
+    text-shadow: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+#aboutcon{
+    width: 34cm;
+    height: 16cm;
+    display: flex;
+    justify-content:space-between;
+    margin: 20px;
+}
+#aboutcon .prof,.aboutconinfo{
+    width: 9cm;
+    height: 10cm;
+    margin: 20px; 
+}
+#aboutcon .prof img{
+    height: 13.5cm;
+    width: 7.5cm;
+    border-radius: 20px;
+    
+}
+#aboutcon .verline{
+    width:0.1cm;
+    height: 14cm;
+    margin: 0;
+    border-style:solid;
+    border-width: 3px;
+    border-bottom-style:hidden ;
+    border-top-style: hidden;
+    border-right-style: hidden;
+}
+.aboutconinfo{
+    width: 28cm;
+}
+.aboutconinfo1{
+    width: 26cm;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.aboutinfo{
+    background-color: rgb(10, 10, 31);
+    height: 7cm;
+    width: 11cm;
+    margin: 10px;
+    border-style:solid;
+    border-radius: 20px;
+    border-color: black;
+    opacity: 90%;
+    text-align: center;
+    
+}
+.aboutinfo h1{
+    background:linear-gradient(blue,skyblue);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.aboutinfo button{
+    background-color: rgb(9, 125, 250);
+}
+
+.interdomininfo{
+    width: 23.5cm;
+    height: 4cm;
+    margin: 40px;
+    font-size: .6cm;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+/* ------------------------- skils ,roles and respon-------------------------- */
+
+
+#aboutpage1{
+    background-color: rgb(49, 45, 45);
+    width: 36cm;
+    height: 17cm;
+    margin: 40px;
+    opacity: 0.9;
+    position: absolute;
+    z-index: 1; 
+    display: flex;
+    justify-content: space-around;
+}
+.aboutskill{
+    background:linear-gradient(black,rgb(21, 21, 79));
+    width: 10cm;
+    height: 15cm;
+    margin: 20px ;
+    margin-left: 150px;
+}
+.heading{
+   
+    font-size: 0.7cm;
+    text-align: center;
+}
+.aboutar_inter{
+   
+    width: 10cm;
+    height: 15cm;
+    margin: 20px ;
+}
+.aboskillcon{
+   
+    height: 12.7cm;
+    width: 9cm;
+    margin: 20px;
+
+}
+.aboskillitem{
+    
+    margin: 3px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 1.5cm;
+
+}
+.aboitemheading{
+    background-color: rgb(241, 238, 238);
+    color: rgb(0, 0, 0);
+    width: 5cm;
+    height: 1cm;
+    text-align: center;
+    margin: 10px  
+}
+.aboitemhead{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 0.42cm;
+}
+.aboitembutton{
+    
+    width: 2cm;
+    text-align: center;
+    margin: 10px;
+
+}
+.aboyear{
+    background-color: red;
+}
+.aboitembtn{
+
+    color: black;
+    margin: 6px;
+}
+.aboitembtn a{
+    text-decoration: none;
+    
+}
+.hideaboskill{
+    
+    width: 2cm;
+    height: 2cm;
+    margin-top: 300px ;
+    
+}
+.hideaboskill button{
+    font-size: 1cm;
+    text-align: center;
+
+}
+.aboutskill1{
+    background:linear-gradient(black,rgb(21, 21, 80));
+    width: 10cm;
+    height: 15cm;
+    margin: 20px ;
+    margin-right: 150px;
+}
+.aboitemhead1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 0.4cm;
+
+
+}
+
+/* -----------------cerfi&intern page---------------------------- */
+
+#aboutpage2{
+    background-color: rgb(49, 45, 45);
+    width: 36cm;
+    height: 17cm;
+    margin: 40px;
+    opacity: 0.9;
+    position: absolute;
+    z-index: 1; 
+    justify-content: space-around;
+    
+}
+.internpage{
+    background:linear-gradient(black,rgb(21, 21, 80));
+    height: 8cm;
+    width: 32cm;
+    margin: 10px;
+    margin-left: 80px;
+
+}
+.internpage h1{
+    text-align: center;
+}
+.interninfo{
+    text-align: center;
+    background: linear-gradient(rgb(7, 7, 117),black);
+    height: 5cm;
+    width: 16cm;
+    margin-left: 8cm;
+    font-size: 0.7cm;
+}
+.internbtns{
+    display: flex;
+    width: 10cm;
+    margin-left: 11cm;
+    margin-top: 0.2cm;
+    justify-content: space-around;
+
+}
+.internbtn1{
+    font-family: cursive;
+    color: rgb(18, 14, 14);
+}
+.internbtn1{
+    font-family: cursive;
+    color: rgb(18, 14, 14);
+}
+.hidebtnintern{
+    height: 1cm;
+    width: 1cm;
+    margin-left: 17.5cm;
+}
+.hidebtnintern button{
+    width: 1.5cm;
+    height: 1.5cm;
+    font-size: 0.8cm;
+    text-align: center;    
+}
+.cerfpage{
+    background:linear-gradient(black,rgb(21, 21, 80));
+    height: 6cm;
+    width: 32cm;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.cerimg{
+    display: flex;
+    justify-content: space-around;
+}
+.cerfpage h1{
+    text-align: center;
+}
+.cerimg img{
+    background-color: rgb(118, 116, 116);
+    width: 5cm;
+    height: auto;
+}
+.cerimg button{
+    height: 2cm;
+    width: 4cm;
+    margin-top:20px;
+    background:linear-gradient(rgb(7, 204, 239),rgb(20, 4, 239));
+}
+.cerimg a{
+    text-decoration: none;
+}
+
+
+
+
+

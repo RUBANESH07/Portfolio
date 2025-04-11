@@ -1,0 +1,107 @@
+
+/* below Content of home page apply keyword ="Content" */
+#name{
+    padding-left: 30px;
+    padding-top: 1.9%;
+    margin-top: 40px;
+    display:flex; 
+    background:linear-gradient(to right,rgb(14, 14, 70),black);
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 50px;
+  }
+  
+  #name1{
+    width: 650px;
+    height: 450px;
+    padding-right: 100px;
+  }
+  #img_p{ 
+    padding: 20px;
+    margin: 15px; 
+    display: flex;
+  }
+  .img1_p{
+    display: flex;
+  }
+  .pro_img{
+    width: 250px;
+    height: 445px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+   
+  }
+  .pro_hide{
+    background:linear-gradient(rgb(14, 14, 80),rgb(0, 0, 0));
+    width: 250px;
+    height: 452px;
+    position: absolute;
+    border-top-left-radius: 48px;
+    border-bottom-right-radius: 50px;
+    text-align: center;
+    font-size: 1cm;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  .pro_hide h1{
+    background:linear-gradient(to right ,rgb(2, 14, 251),red);
+    color: transparent;
+    -webkit-background-clip: text;
+  }
+  
+  
+  .b_name{
+    font-size: 1cm;
+    font-family:cursive;
+    color: rgb(255, 255, 255);
+  }
+  .f_name{
+    background: linear-gradient(to right,blue,rgb(212, 0, 221));
+    font-size: 3.5cm;
+    color: transparent;
+    margin-top: -50px;
+    position: absolute;
+    font-family:serif;
+    margin-left: 48px;
+    -webkit-background-clip: text;
+  }
+  .L_name {
+    background: linear-gradient(to right,rgb(255, 0, 212),rgb(20, 37, 231));
+    font-size: 1.5cm;
+    padding-left: 145px;
+    font-family:serif;
+    color: transparent;
+    -webkit-background-clip: text; 
+  
+  }
+  .A_name {
+    background:linear-gradient(to right,rgb(22, 22, 241),rgb(206, 30, 206)) ;
+    color: transparent;
+    font-size:1cm;
+    font-family: cursive;  
+    text-align: center;
+    margin-top: -50px;
+    border-radius: 50px;
+    -webkit-background-clip: text;
+  }
+  
+  .Abo_name {
+    font-size:0.6cm;
+    color: rgb(255, 255, 255);
+    font-family: cursive; 
+    text-align: center; 
+    margin-top: -10px;
+    
+  }
+  .cont_con{
+    margin-top: 235px;
+    font-size: 0.8cm;
+   
+    
+  }
+  .cont_con a{
+    background:linear-gradient(to right,red,rgb(192, 240, 1));
+    font-family:fantasy ;
+    -webkit-background-clip: text;
+    color: transparent;   
+  }
