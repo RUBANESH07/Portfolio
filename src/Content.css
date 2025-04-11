@@ -1,9 +1,12 @@
 
 /* below Content of home page apply keyword ="Content" */
+hr{
+  margin-top: 80px;
+}
 #name{
     padding-left: 30px;
-    padding-top: 1.9%;
-    margin-top: 40px;
+    padding-top: 50px;
+    margin-top: 20px;
     display:flex; 
     background:linear-gradient(to right,rgb(14, 14, 70),black);
     border-radius: 20px;
