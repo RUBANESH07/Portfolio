@@ -9,6 +9,8 @@ import "./Content.css"
 function Content() {
   const[ishide,setishide] = useState(false)
   return (
+<>
+    <hr></hr>
     <div id="name">
       <div id="name1">
         <p className="b_name">I'm</p>
@@ -30,8 +32,10 @@ function Content() {
       </div>
       <div className="cont_con"><a href="https://drive.google.com/file/d/1s5iZ2YuvgIOqvkwUCGY8n7PjsnArdFoZ/view?usp=drivesdk">RESUME</a></div>
     </div>
-    
+</> 
   );
 }
+
+
 
 export default Content;
