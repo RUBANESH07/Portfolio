@@ -13,16 +13,17 @@ function Header (){
             </div>
             
             <div id="headercon">
-                <a href="#" >Home</a>
-                <a href="#" >About</a>
-                <a href="#" >Skills</a> 
-                <a href="#">Roles & Responsibilities </a>
-                <a href="#" >Academics</a>
-                <a href="#" >Projects</a>
-                <a href="#" >Contact info</a>
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#skills" >Skills</a> 
+                <a href="#roles">Roles & Responsibilities </a>
+                <a href="#academics" >Academics</a>
+                <a href="#project" >Projects</a>
+                <a href="#contact" >Contact info</a>
             </div>
         </header>
-                <hr></hr>
+                
+                
     </>
     )
 }
